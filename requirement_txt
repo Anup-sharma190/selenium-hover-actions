@@ -1,0 +1,7 @@
+Excel Automation Project
+openpyxl>=3.0.10
+Selenium Hover Actions Project
+selenium>=4.10.0
+To create it automatically if you’re using a virtual environment:
+pip freeze > requirements.txt
+Then clean it manually to include only the packages your project needs.
